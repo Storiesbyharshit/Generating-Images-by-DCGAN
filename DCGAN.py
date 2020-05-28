@@ -1,6 +1,6 @@
 
 
-get_ipython().run_line_magic('matplotlib', 'inline')
+
 import tensorflow as tf
 from tensorflow import keras
 import numpy as np
